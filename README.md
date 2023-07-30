@@ -20,9 +20,10 @@ Note:-
 - Refer the heatmap in CN platform for No of problems solved daily.
 
 
-Start Date:- 4th June 2023
-End Date:- 30th July 2023
-Max Streak Acheived:- 53 Days
+- Start Date:- 4th June 2023
+- End Date:- 30th July 2023
+- Max Streak Acheived:- 53 Days
+
 <img width="745" alt="image" src="https://github.com/pratiksabat/Strivers_SDE_Sheet_2023_Pratik/assets/47950768/f04ee394-0261-4670-857a-67cf4020ba87">
 
 
